@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/tkgurpr51vvqjd8j?svg=true)](https://ci.appveyor.com/project/Plushcake/json-schema)
