@@ -28,3 +28,4 @@ class MobileBankApiTestV3 {
       ;
     }
 }
+//http://localhost:9999/api/v1/demo/accounts
